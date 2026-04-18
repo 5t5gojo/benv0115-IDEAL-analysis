@@ -1,0 +1,40 @@
+homeid,Summer_Weekday,Summer_Weekend,Winter_Weekday,Winter_Weekend,n_distinct_context_archetypes
+61,Late-afternoon peak,All-daytime plateau,Evening peak,All-daytime plateau,3
+62,Evening peak,Morning peak,Evening peak,All-daytime plateau,3
+63,Early-morning peak,All-daytime plateau,Early-morning peak,Morning peak,3
+65,Evening peak,All-daytime plateau,Evening peak,Evening peak,2
+73,Morning peak,Morning peak,Evening peak,Morning peak,2
+90,Evening peak,Evening peak,Evening peak,Evening peak,1
+96,Evening peak,Evening peak,Evening peak,All-daytime plateau,2
+105,Evening peak,All-daytime plateau,Evening peak,All-daytime plateau,2
+106,Evening peak,Morning peak,Evening peak,Morning peak,2
+128,Evening peak,Morning peak,Evening peak,All-daytime plateau,3
+136,All-daytime plateau,Evening peak,All-daytime plateau,Evening peak,2
+139,Morning peak,Morning peak,All-daytime plateau,All-daytime plateau,2
+140,All-daytime plateau,All-daytime plateau,All-daytime plateau,All-daytime plateau,1
+145,Morning peak,Early-morning peak,Morning peak,Evening peak,3
+146,All-daytime plateau,All-daytime plateau,All-daytime plateau,All-daytime plateau,1
+162,Early-morning peak,Morning peak,Morning peak,Morning peak,2
+168,Late-afternoon peak,All-daytime plateau,All-daytime plateau,All-daytime plateau,2
+169,Evening peak,All-daytime plateau,Evening peak,All-daytime plateau,2
+171,Morning peak,Morning peak,,,1
+175,Early-morning peak,Morning peak,All-daytime plateau,All-daytime plateau,3
+208,Morning peak,Morning peak,Morning peak,Morning peak,1
+212,Late-afternoon peak,Late-afternoon peak,Evening peak,Evening peak,2
+225,Late-afternoon peak,Evening peak,Evening peak,Evening peak,2
+227,Early-morning peak,All-daytime plateau,Early-morning peak,All-daytime plateau,2
+228,Early-morning peak,Morning peak,Early-morning peak,All-daytime plateau,3
+231,Early-morning peak,Evening peak,All-daytime plateau,All-daytime plateau,3
+238,Late-afternoon peak,Morning peak,Late-afternoon peak,Late-afternoon peak,2
+242,Late-afternoon peak,Late-afternoon peak,Evening peak,All-daytime plateau,3
+249,Early-morning peak,Morning peak,Morning peak,Evening peak,3
+255,Evening peak,All-daytime plateau,Evening peak,All-daytime plateau,2
+259,Morning peak,Morning peak,Evening peak,Evening peak,2
+262,Evening peak,Late-afternoon peak,Evening peak,All-daytime plateau,3
+263,All-daytime plateau,All-daytime plateau,All-daytime plateau,Late-afternoon peak,2
+264,Late-afternoon peak,Late-afternoon peak,Late-afternoon peak,All-daytime plateau,2
+266,Morning peak,Late-afternoon peak,Early-morning peak,Morning peak,3
+268,Evening peak,All-daytime plateau,Evening peak,All-daytime plateau,2
+276,,,All-daytime plateau,All-daytime plateau,1
+311,Morning peak,Morning peak,,,1
+328,Evening peak,Evening peak,,,1

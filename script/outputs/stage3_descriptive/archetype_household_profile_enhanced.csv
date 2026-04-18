@@ -1,0 +1,6 @@
+daily_archetype,archetype_name,modal_homes,mean_residents,median_residents,mean_major_app_total,mean_other_app_total,modal_hometype,modal_income_band,modal_workingstatus
+0,Morning peak,8,1.875,2.0,17.125,14.5,flat,"£43,200 to £48,599",Paid work
+1,All-daytime plateau,11,2.8181818181818183,3.0,21.181818181818183,16.90909090909091,flat,"£43,200 to £48,599",Paid work
+2,Evening peak,15,1.8666666666666667,2.0,20.133333333333333,15.2,flat,"£23,400 to £26,999",Paid work
+3,Late-afternoon peak,3,2.6666666666666665,2.0,20.0,17.333333333333332,house_or_bungalow,"£48,600 to £53,999",Paid work
+4,Early-morning peak,2,1.0,1.0,18.5,11.5,flat,"£54,000 to £65,999",Paid work

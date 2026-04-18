@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / Python cache
+__pycache__/
+*.pyc
+
+# Raw IDEAL data and documentation bundles
+sensordata/
+metadata_and_surveys (1)/
+room_and_appliance_sensors/
+documentation/
+*.zip
+*.gz
+
+# Heavy Stage 1 intermediate outputs
+script/outputs/stage1_preparation/all_electricity_features_2hr_enhanced.csv
+script/outputs/stage1_preparation/all_gas_features_2hr_enhanced.csv
+script/outputs/stage1_preparation/daily_electricity_features_enhanced.csv
+
+# Optional local clutter
+*.log
+00README.txt
+script/outputs/legacy/
